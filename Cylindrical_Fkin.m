@@ -22,3 +22,6 @@ H1_2.qlim = [0 d2];
 H2_3 = Link([0,0,0,0,1,a3]);
 H2_3.qlim = [0 d3];
 
+Cylindrical = SerialLink([H0_1 H1_2 H2_3], 'name', 'Cyl')
+Cylindrical.plot([0 0 0],'workspace',[-50 80 -80 80 0 150]) %plot at Origin position
+Cylindrical.teach
