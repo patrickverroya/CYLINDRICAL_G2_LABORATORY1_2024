@@ -14,3 +14,4 @@ d3 = 20;
 % if revolute joint: theta = 0,offset = 0, after offset put the value of theta
 H0_1 = Link([0,a1,0,0,0,0]);
 H0_1.qlim = [-pi/2 pi/2];
+
