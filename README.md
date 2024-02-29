@@ -2,8 +2,8 @@
 
 ## Members:
 
-### PL : Naz, 
+### PL : Naz, Jhan Rey
 ### PE : Sunga, Jairus C.
 ### PS : De Gracia, Terrance Mae
-### PQ : Blasco, Treaty Sherizah
+### PQ : Blasco, Treaty Sherrizah L.
 ### PR : Verroya, Patrick James
