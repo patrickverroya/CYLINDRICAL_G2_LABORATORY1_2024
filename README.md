@@ -1,4 +1,4 @@
-# Group 2 Cylindrical Manipulator
+# Group 2 - Cylindrical Manipulator
 
 ## Members:
 
