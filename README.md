@@ -2,7 +2,7 @@
 
 ## Members:
 
-### PL : Naz, Jhan Rey
+#### PL : Naz, Jhan Rey
 ### PE : Sunga, Jairus C.
 ### PS : De Gracia, Terrance Mae C.
 ### PQ : Blasco, Treaty Sherrizah L.
