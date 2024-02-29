@@ -6,7 +6,7 @@ a1 = 50;
 a2 = 50;
 a3 = 50;
 
-%% Joint Variables\
+%% Joint Variables
 d2 = 20;
 d3 = 20;
 
