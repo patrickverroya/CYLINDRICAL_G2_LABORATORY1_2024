@@ -23,7 +23,7 @@ t1 = np.arctan(y0_3/x0_3)
 t1 = t1*180/np.pi
 
 #Solution 2
-d3=np.sqrt(y0_3**2+x0_3**2)-a3
+d3=np.sqrt(y0_3**2+x0_3**2)-a2
 
 #Solution 3
 d2=z0_3-a1-a2
