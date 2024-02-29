@@ -1,4 +1,4 @@
-## CYLINDRICAL-V3
+## SCARA-V3
 
 
 #import libraries
