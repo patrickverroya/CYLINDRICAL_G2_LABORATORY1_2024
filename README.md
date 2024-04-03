@@ -1,4 +1,4 @@
-# CYLINDRICAL MANIPULATOR_G6
+# CYLINDRICAL MANIPULATOR
 
 ## Members:
 
@@ -7,3 +7,9 @@
 #### PS : de Gracia, Terrance Mae C.
 #### PQ : Blasco, Treaty Sherrizah L.
 #### PR : Verroya, Patrick James C.
+
+#I. ABSTRACT
+##(description)
+
+II. INTRODUCTION
+##(description)
