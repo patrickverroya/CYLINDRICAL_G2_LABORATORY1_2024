@@ -90,7 +90,6 @@ ____________________________________![image](https://github.com/patrickverroya/C
 In the documentation for cylindrical robots, it could quickly locate homogeneous transformation matrices using the dh parameter table.
 
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/e4628dcc-c56a-4388-80a6-86b23116c1c1)
-
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/aa53777f-86ff-47f4-a303-eeccd84c6fae)
 
 
