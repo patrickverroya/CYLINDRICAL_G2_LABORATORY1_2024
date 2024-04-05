@@ -13,6 +13,9 @@
 A **CYLINDRICAL MANIPULATOR** is a type of robot arm that is designed to function in a cylindrical workspace. This type of manipulator consists of three links (one prismatics and two revolute) arranged in a cylindrical configuration (RPP). The circular work envelope of the robots is made possible via a rotating shaft and an extensible arm that slides and travels vertically. The cylindrical manipulator has several industrial uses, including pick-and-place operations, painting, and welding. Its workspace, however, is constrained to a cylindrical cylinder and it would not be appropriate for applications requiring great precision or substantial payloads.
 
 # **INTRODUCTION**
+![b-removebg-preview](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/1a0a72df-385f-462d-b5cb-e774d6771d76)  ![433589030_1095598608339301_3556433435437126138_n](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/a4f78d99-3eeb-4dca-bd88-b59a93c7b104)
+
+
 
 The rapid development of technology has caused a surge in the need for automation within the several sectors. The integration of robots in various industries has brought about a significant transformaiton, and the fundamental element of this evolution is the mechanical manipulator, also known as robotic arm. Mechanical manipulator has a significant ability on enhancing productivity, efficiency, and safety in a workplace.
 
