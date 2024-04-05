@@ -95,6 +95,10 @@ In the documentation for cylindrical robots, it could quickly locate homogeneous
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/fa7b1c60-9a69-40cc-900e-d6bef6edf038)
 
 
+# **HOMOGENEOUS TRANSFORMATION MATRIX**
+
+
+
 
 
 
