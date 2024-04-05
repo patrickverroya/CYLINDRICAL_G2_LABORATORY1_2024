@@ -44,11 +44,14 @@ displacements or motion characteristics.
 
 **This will be the basis of the type of mechanical manipulator based on number of DOF of cylindrical manipulator.**
 - **Under-actuated Manipulator**
-     , Either a Spatial Manipulator w/ less than 6-DOF or a
-     , Planar Manipulator w/ less than 3-DOF.
+     
+  Either a Spatial Manipulator w/ less than 6-DOF or a
+  Planar Manipulator w/ less than 3-DOF.
 - **Ideal Manipulator**
-     , Either a Spatial Manipulator w/ exactly 6-DOF or a
-     , Planar Manipulator w/ exactly 3-DOF.
+  
+   Either a Spatial Manipulator w/ exactly 6-DOF or a
+   Planar Manipulator w/ exactly 3-DOF.
 - **Redundant Manipulator**
-     , Either a Spatial Manipulator w/ more than 6-DOF or a
-     , Planar Manipulator w/ more than 3-DOF
+  
+    Either a Spatial Manipulator w/ more than 6-DOF or a
+    Planar Manipulator w/ more than 3-DOF
