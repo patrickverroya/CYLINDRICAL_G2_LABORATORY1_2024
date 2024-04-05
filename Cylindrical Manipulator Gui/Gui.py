@@ -11,6 +11,8 @@ import spatialmath
 from spatialmath import SE3
 import matplotlib
 matplotlib.use("TkAgg")
+
+#We install ttkbootstrap as external libary for tkinter
 from ttkbootstrap.constants import*
 import ttkbootstrap as tb
 
