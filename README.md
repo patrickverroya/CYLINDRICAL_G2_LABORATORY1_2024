@@ -69,7 +69,7 @@ displacements or motion characteristics.
 
   ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/9a61137a-4107-4720-8e92-8ab032a708b1)
 
-  # **KINEMATIC DIAGRAM AND D-H FRAME
+  # **KINEMATIC DIAGRAM AND D-H FRAME**
 
 
 
