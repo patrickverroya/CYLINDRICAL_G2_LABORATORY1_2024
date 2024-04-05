@@ -273,7 +273,19 @@ d3_E.grid(row=2,column=4)
 cm6=tb.Label(FI,text=("cm "),font=(10),bootstyle="primary")
 cm6.grid(row=2,column=5)
 
+#Buttons Frame
 
+BF = tb.LabelFrame(mygui,text="Forward and Inverse",bootstyle="success",relief=tb.SUNKEN)
+BF.grid(row=1,column=0)
+
+
+FK=tb.Button(BF,text="Forward ↓ ",bootstyle="success",command=f_k)
+rst = tb.Button(BF,text="RESET",command=reset)
+IK = tb.Button(BF,text="Inverse ↑",bootstyle="danger",command=i_k)
+
+FK.grid(row=0, column=0,sticky="snew")
+rst.grid(row=0, column=1,sticky="snew")
+IK.grid(row=0, column=2,sticky="snew")
 
 
 
