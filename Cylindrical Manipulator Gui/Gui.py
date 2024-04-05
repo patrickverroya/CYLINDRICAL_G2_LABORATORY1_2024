@@ -212,6 +212,68 @@ def f_k():
 FI = tb.LabelFrame(mygui,text="Link Frames and Joint Variables",bootstyle="success",relief=tb.SUNKEN)
 FI.grid(row=0,column=0)
 
+#Link Lengths
+
+
+a1=tb.Label(FI,text=" a1 ", font=(10),bootstyle="warning")
+a1.grid(row=0,column=0)
+
+a1_E=tb.Entry(FI,width=5, font=(10),bootstyle="default")   
+a1_E.grid(row=0,column=1)
+
+cm1=tb.Label(FI,text=("cm "),font=(10),bootstyle="warning")
+cm1.grid(row=0,column=2)
+
+
+a2=tb.Label(FI,text=" a2 ", font=(10),bootstyle="warning")
+a2.grid(row=1,column=0)
+
+
+a2_E=tb.Entry(FI,width=5, font=(10),)
+a2_E.grid(row=1,column=1)
+
+cm2=tb.Label(FI,text=("cm "),font=(10),bootstyle="warning")
+cm2.grid(row=1,column=2)
+
+
+a3=tb.Label(FI,text=" a3 ", font=(10),bootstyle="warning")
+a3.grid(row=2,column=0)
+
+a3_E=Entry(FI,width=6, font=(10))
+a3_E.grid(row=2,column=1)
+
+cm3=tb.Label(FI,text=("cm "),font=(10),bootstyle="warning")
+cm3.grid(row=2,column=2)
+
+
+t1=tb.Label(FI,text=" θ1 ", font=(10),bootstyle="primary")
+t1.grid(row=0,column=3)
+
+t1_E=Entry(FI,width=5, font=(10))
+t1_E.grid(row=0,column=4)
+
+deg1=tb.Label(FI,text=(" ° "),font=(10),bootstyle="primary")
+deg1.grid(row=0,column=5)
+
+d2=tb.Label(FI,text=" d2 ", font=(10),bootstyle="primary")
+d2.grid(row=1,column=3)
+
+d2_E=Entry(FI,width=5, font=(10))
+d2_E.grid(row=1,column=4)
+
+cm5=tb.Label(FI,text=("cm "),font=(10),bootstyle="primary")
+cm5.grid(row=1,column=5)
+
+d3=tb.Label(FI,text=" d3 ", font=(10),bootstyle="primary")
+d3.grid(row=2,column=3)
+
+d3_E=Entry(FI,width=5, font=(10))
+d3_E.grid(row=2,column=4)
+
+cm6=tb.Label(FI,text=("cm "),font=(10),bootstyle="primary")
+cm6.grid(row=2,column=5)
+
+
 
 
 
