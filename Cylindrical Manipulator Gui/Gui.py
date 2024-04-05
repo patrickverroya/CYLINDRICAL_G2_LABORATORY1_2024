@@ -287,6 +287,47 @@ FK.grid(row=0, column=0,sticky="snew")
 rst.grid(row=0, column=1,sticky="snew")
 IK.grid(row=0, column=2,sticky="snew")
 
+#Position Vector Frame
+PV = tb.LabelFrame(mygui,text="Position Vector")
+PV.grid(row=2,column=0)
+
+X1=tb.Label(PV,text=" X1 = ")
+X1_E=tb.Entry(PV,width=5)
+cm9=tb.Label(PV,text=("cm "))
+
+X1.grid(row=0,column=0)
+X1_E.grid(row=0,column=1)
+cm9.grid(row=0,column=2)
+
+
+Y1=tb.Label(PV,text=" Y1 = ")
+Y1_E=tb.Entry(PV,width=5, )
+cm7=tb.Label(PV,text=("cm "))
+
+Y1.grid(row=1,column=0)
+Y1_E.grid(row=1,column=1)
+cm7.grid(row=1,column=2)
+
+Z1=tb.Label(PV,text=" Z1= ")
+Z1_E=tb.Entry(PV,width=5, )
+cm8=tb.Label(PV,text=("cm "))
+
+Z1.grid(row=2,column=0)
+Z1_E.grid(row=2,column=1)
+cm8.grid(row=2,column=2)
+
+img = PhotoImage(file="cylindrical.png")
+img = img.subsample(1,2)
+PI = Label(mygui,image=img)
+PI.grid(row=1,column=3)
+
+mygui.mainloop()
+
+
+
+
+
+
 
 
     
