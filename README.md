@@ -42,3 +42,5 @@ of freedom (DOF) in mechanics. The number of degrees
 of freedom is equal to the total number of independent
 displacements or motion characteristics.
 
+**This will be the basis of the type of mechanical manipulator based on number of DOF of cylindrical manipulator**
+
