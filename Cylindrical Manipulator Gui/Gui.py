@@ -162,3 +162,29 @@ def f_k():
     #print("H2_3 = ")
     #H2_3 = np.array(np.round(H2_3,3))
     #print(H2_3)
+
+
+    H0_2=np.dot(H0_1,H1_2)
+    H0_3=np.dot(H0_2,H2_3)  
+    print("H0_3 = ")
+    H0_3=(np.array(np.around(H0_3,3)))
+    print(H0_3)
+        
+
+    H0_2=np.dot(H0_1,H1_2)
+    H0_3=np.dot(H0_2,H2_3)  
+    H0_3=np.array(H0_3)
+
+    X0_3 = H0_3 [0,3]
+    X1_E.delete(0,END)
+    X1_E.insert(0,np.around(X0_3,3))
+
+    X0_3 = H0_3 [1,3]
+    Y1_E.delete(0,END)
+    Y1_E.insert(0,np.around(X0_3,3))
+
+    X0_3 = H0_3 [2,3]
+    Z1_E.delete(0,END)
+    Z1_E.insert(0,np.around(X0_3,3))
+
+
