@@ -148,3 +148,17 @@ def f_k():
             [np.sin(PT[i][0]),np.cos(PT[i][0])*np.cos(PT[i][1]),-np.cos(PT[i][0])*np.sin(PT[i][1]),PT[i][2]*np.sin(PT[i][0])],
             [0,np.sin(PT[i][1]),np.cos(PT[i][1]),PT[i][3]],
             [0,0,0,1]]
+
+
+
+    #print("H0_1 = ")
+    #H0_1 = np.array(np.round(H0_1,3))
+    #print(H0_1)
+
+    #print("H1_2 = ")
+    #H1_2 = np.array(np.round(H1_2,3))
+    #print(H1_2)
+
+    #print("H2_3 = ")
+    #H2_3 = np.array(np.round(H2_3,3))
+    #print(H2_3)
