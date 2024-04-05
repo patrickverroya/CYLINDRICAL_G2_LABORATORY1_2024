@@ -35,4 +35,10 @@ a base and the other that is free to be employed for
 various robotic tasks. 
 
 # **DEGREES OF FREEDOM**
+The number of independent variables used to
+represent the various positions or motions of a
+mechanical system in space is referred to as degrees
+of freedom (DOF) in mechanics. The number of degrees
+of freedom is equal to the total number of independent
+displacements or motion characteristics.
 
