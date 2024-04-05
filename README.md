@@ -67,7 +67,7 @@ displacements or motion characteristics.
 
                         SOLUTION OF DEGREES OF FREEDON FOR CYLINDRICAL MANIPULATOR
 
-    ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/9a61137a-4107-4720-8e92-8ab032a708b1)
+  ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/9a61137a-4107-4720-8e92-8ab032a708b1)
 
 
 
