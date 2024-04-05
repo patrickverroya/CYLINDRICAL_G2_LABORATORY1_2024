@@ -34,3 +34,5 @@ joints. The manipulator has one end that is attached to
 a base and the other that is free to be employed for
 various robotic tasks. 
 
+# **DEGREES OF FREEDOM**
+
