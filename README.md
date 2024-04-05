@@ -14,7 +14,7 @@ A **CYLINDRICAL MANIPULATOR** is a type of robot arm that is designed to functio
 
 # **INTRODUCTION**
 
-The rapid development of technology has caused a surge in the need for automation within the several sectors. The integration of robots in various industries has brought about a significant transformaiton, and the fundamental element of this evolution is the mechanical manipulator, also known as robotics arm. 
+The rapid development of technology has caused a surge in the need for automation within the several sectors. The integration of robots in various industries has brought about a significant transformaiton, and the fundamental element of this evolution is the mechanical manipulator, also known as robotic arm.
 
 **CYLINDRICAL MANIPULATORS** are unique options for simple
 applications that require a compact automation
