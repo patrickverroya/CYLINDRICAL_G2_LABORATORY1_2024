@@ -61,3 +61,7 @@ displacements or motion characteristics.
   
     Either a Spatial Manipulator w/ more than 6-DOF or a
     Planar Manipulator w/ more than 3-DOF
+
+![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/bda9c1cf-8b6d-461e-9802-b345a1a24d04)
+![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/6424960a-aae6-4119-a182-dc7e488c6155)
+
