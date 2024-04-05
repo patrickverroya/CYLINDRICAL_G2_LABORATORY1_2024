@@ -187,4 +187,29 @@ def f_k():
     Z1_E.delete(0,END)
     Z1_E.insert(0,np.around(X0_3,3))
 
+    Cylindrical = DHRobot([
+            RevoluteDH(a1/100,0,(0.0/180.0)*np.pi,(0.0/180.0)*np.pi,qlim=[-np.pi/2,np.pi/2]),
+            PrismaticDH(0,0,(270/180.0)*np.pi,a2/100,qlim=[0,(30/100)]),
+            PrismaticDH(0,0,(0.0/180.0)*np.pi,a3/100,qlim=[0,(30/100)]),
+
+        ], name="Cylindrical")
+    
+        #plot joints
+    q1 = np.array([t1,d2/100,d3/100])
+
+    #plot scale
+    x1 = -0.5
+    x2 = 0.5
+    y1 = -0.5
+    y2 = 0.5
+    z1 = 0.0
+    z2 = 0.5     
+
+    # Plot commands
+    Cylindrical.plot(q1,limits=[x1,x2,y1,y2,z1,z2],block=True)
+
+
+
+    
+
 
