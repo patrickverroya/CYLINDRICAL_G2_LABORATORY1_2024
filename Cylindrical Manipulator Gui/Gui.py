@@ -11,3 +11,6 @@ import spatialmath
 from spatialmath import SE3
 import matplotlib
 matplotlib.use("TkAgg")
+from ttkbootstrap.constants import*
+import ttkbootstrap as tb
+
