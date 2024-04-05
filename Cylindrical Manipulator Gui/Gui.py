@@ -14,3 +14,8 @@ matplotlib.use("TkAgg")
 from ttkbootstrap.constants import*
 import ttkbootstrap as tb
 
+#from roboticstoolbox import DHRobot, RevoluteDH, PrismaticDH    
+
+#Create GUI with title
+
+mygui = tb.Window(themename="cyborg")
