@@ -19,3 +19,5 @@ import ttkbootstrap as tb
 #Create GUI with title
 
 mygui = tb.Window(themename="cyborg")
+mygui.title("Cylindrical Manipulator Calculator")
+mygui.geometry("550x450")
