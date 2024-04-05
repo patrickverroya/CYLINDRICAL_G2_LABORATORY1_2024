@@ -66,6 +66,7 @@ displacements or motion characteristics.
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/6424960a-aae6-4119-a182-dc7e488c6155)
 
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/1b657d47-7889-42d2-8c51-17dd56d9e72b) 
+
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/9a61137a-4107-4720-8e92-8ab032a708b1)
 
 
