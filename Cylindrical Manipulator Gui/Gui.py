@@ -208,6 +208,11 @@ def f_k():
     # Plot commands
     Cylindrical.plot(q1,limits=[x1,x2,y1,y2,z1,z2],block=True)
 
+#Link Length and Joint Variables frame
+FI = tb.LabelFrame(mygui,text="Link Frames and Joint Variables",bootstyle="success",relief=tb.SUNKEN)
+FI.grid(row=0,column=0)
+
+
 
 
     
