@@ -79,7 +79,10 @@ displacements or motion characteristics.
 ____________________________________![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/635250ed-cc00-41a1-b648-f5d1581b0ccb) ______________________________________________
 
 
-          **ASSIGNING OF FRAMES TO A CYLINDRICAL MANIPULATOR**
+          ASSIGNING OF FRAMES TO A CYLINDRICAL MANIPULATOR
+
+![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/ca81b6a3-a2d8-4604-b92e-d7af45032c86)
+
 
 
 
