@@ -75,8 +75,8 @@ displacements or motion characteristics.
 
   Denavit-Hartenberg notation is widely used in the transformation of coordinate systems of linkages and robot mechanisms. This will be used to determine the position and orientation of cylindrical manipulator.
 
-![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/42d40388-938d-44d2-a32a-6065c987ff21)  
-                         ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/635250ed-cc00-41a1-b648-f5d1581b0ccb)
+![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/42d40388-938d-44d2-a32a-6065c987ff21)
+_____________________![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/635250ed-cc00-41a1-b648-f5d1581b0ccb)
 
 
 
