@@ -71,7 +71,7 @@ displacements or motion characteristics.
 
   # **KINEMATIC DIAGRAM AND D-H FRAME**
 
-  Denavit-Hartenberg Notation
+  **Denavit-Hartenberg Notation**
 
   Denavit-Hartenberg notation is widely used in the transformation of coordinate systems of linkages and robot mechanisms. This will be used to determine the position and orientation of cylindrical manipulator.
 
