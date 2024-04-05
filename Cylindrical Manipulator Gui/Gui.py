@@ -11,10 +11,9 @@ import spatialmath
 from spatialmath import SE3
 import matplotlib
 matplotlib.use("TkAgg")
-
-#We install ttkbootstrap for external library if tkinter
 from ttkbootstrap.constants import*
 import ttkbootstrap as tb
+
 
 #from roboticstoolbox import DHRobot, RevoluteDH, PrismaticDH    
 
@@ -23,6 +22,12 @@ import ttkbootstrap as tb
 mygui = tb.Window(themename="cyborg")
 mygui.title("Cylindrical Manipulator Calculator")
 mygui.geometry("550x450")
+mygui.resizable(True,True)
+
+
+
+
+
 
 #Reset Function
 def reset():
@@ -151,8 +156,6 @@ def f_k():
             [0,np.sin(PT[i][1]),np.cos(PT[i][1]),PT[i][3]],
             [0,0,0,1]]
 
-
-
     #print("H0_1 = ")
     #H0_1 = np.array(np.round(H0_1,3))
     #print(H0_1)
@@ -164,7 +167,6 @@ def f_k():
     #print("H2_3 = ")
     #H2_3 = np.array(np.round(H2_3,3))
     #print(H2_3)
-
 
     H0_2=np.dot(H0_1,H1_2)
     H0_3=np.dot(H0_2,H2_3)  
@@ -210,9 +212,19 @@ def f_k():
     # Plot commands
     Cylindrical.plot(q1,limits=[x1,x2,y1,y2,z1,z2],block=True)
 
+
+
+    
+    
+
+
+
+
+
 #Link Length and Joint Variables frame
 FI = tb.LabelFrame(mygui,text="Link Frames and Joint Variables",bootstyle="success",relief=tb.SUNKEN)
 FI.grid(row=0,column=0)
+
 
 #Link Lengths
 
@@ -275,6 +287,7 @@ d3_E.grid(row=2,column=4)
 cm6=tb.Label(FI,text=("cm "),font=(10),bootstyle="primary")
 cm6.grid(row=2,column=5)
 
+
 #Buttons Frame
 
 BF = tb.LabelFrame(mygui,text="Forward and Inverse",bootstyle="success",relief=tb.SUNKEN)
@@ -327,11 +340,5 @@ mygui.mainloop()
 
 
 
-
-
-
-
-
-    
 
 
