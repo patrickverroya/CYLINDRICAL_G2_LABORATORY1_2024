@@ -116,7 +116,7 @@ In the documentation for cylindrical robots, it could quickly locate homogeneous
 
 
 
-# **FORWARD AND INVERSE KINEMATICS (GUI CALCULATOR)
+# **FORWARD AND INVERSE KINEMATICS (GUI CALCULATOR)**
 
 
 
