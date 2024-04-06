@@ -105,7 +105,7 @@ In the documentation for cylindrical robots, it could quickly locate homogeneous
 
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/fa7b1c60-9a69-40cc-900e-d6bef6edf038)
 
-  **SUPPLEMENRATY VIDEO DISCUSSION [CLICK HERE:]** 
+  **SUPPLEMENRATY VIDEO DISCUSSION [CLICK HERE: https://www.youtube.com/watch?v=g8zGarD6TcI]** 
   
   ![4](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157670284/153d0f93-d6a4-4f2b-b60a-a5f479368672)
 
