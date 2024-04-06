@@ -90,9 +90,8 @@ ____________________________________![image](https://github.com/patrickverroya/C
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/ca81b6a3-a2d8-4604-b92e-d7af45032c86)
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/b394038e-b9e0-4216-80b0-51c6a1029a82)
 
-  **VIDEO DISCUSSION [CLICK HERE:]** 
+  **VIDEO DISCUSSION [CLICK HERE: https://www.youtube.com/watch?v=B_SrmvaQ9Lw]** 
   
-  **[VIDEO DISCUSSION ABOUT D-H FRAME RULE STARTS AT]**
 ![3](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157670284/74297091-42c1-4e4d-9353-382a8f93952a)
 
 
