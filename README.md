@@ -143,6 +143,19 @@ INVERSE KINEMATICS OF CYLINDRICAL MANIPULATOR
 
 
 # **REFERENCES**
+- Chakraborty, E. (2024, January 20). What is a
+cylindrical robot? 9 Answers You should
+know - LAMBDAGEEKS. Lambda Geeks.
+https://lambdageeks.com/cylindrical-robots/
+
+- Wikipedia contributors. (2024, March 10).
+Transformation matrix. Wikipedia.
+https://en.wikipedia.org/wiki/Transformation
+_matrix
+
+- Lunia, A. (n.d.). Inverse kinematics. Pressbooks.
+https://opentextbooks.clemson.edu/wangrob
+otics/chapter/inverse-kinematics/
 
 
 
