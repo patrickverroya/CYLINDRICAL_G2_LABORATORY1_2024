@@ -162,9 +162,12 @@ INVERSE KINEMATICS OF CYLINDRICAL MANIPULATOR
 
 # **FORWARD AND INVERSE KINEMATICS (GUI CALCULATOR)**
 
+  **Main Interface**
 The picture below shows the main interface of the Cylindrical Manipulator Inverse and Forward Calculator. Take note that ttkbootstrap is added as library for the gui interface.
 
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157588949/136185ad-422c-487f-be86-870500981fbd)
+
+
 
 
 # **REFERENCES**
