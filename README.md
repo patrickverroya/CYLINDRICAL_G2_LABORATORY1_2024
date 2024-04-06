@@ -170,12 +170,18 @@ The picture below shows the main interface of the Cylindrical Manipulator Invers
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157588949/136185ad-422c-487f-be86-870500981fbd)
 
 
+
+
 **Link Lengths Interface**
 
 This part of the GUI calculator is the input of the necessary link length that is required to calculate the forward kinematics and inverse kinematics.
 
 
+
+
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157588949/75c11a1e-f59c-429c-835f-f39a7b82d19a)
+
+
 
 
   **Joint Variables**
@@ -184,14 +190,21 @@ This is the part where the joint variables are shown. This is also the part wher
 
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157588949/b5a13133-557f-463a-9423-52e31318903a)
 
+
+
+
 **Function Buttons**
 This is where the magic happens. This is responsible for the commands/controls of the calculator. The Forward Button is for calculating the Forward Kinematics, and the Inverse Button is for calculating the Inverese Kinematics. The reset button is for resetting everything in the input/output box.
 
 
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157588949/3eb36521-3046-405b-8cac-bd0a1084e34e)
 
+
+
+
 **Position Vector**
 This part is where the Position Vector is shown when computing for the Forward Kinematics. This is also where you input the Position Vector when computing for the Inverse Kinematics
+
 
 # **REFERENCES**
 - Chakraborty, E. (2024, January 20). What is a
