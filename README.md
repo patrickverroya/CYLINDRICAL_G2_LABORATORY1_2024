@@ -205,6 +205,8 @@ This is where the magic happens. This is responsible for the commands/controls o
 **Position Vector**
 This part is where the Position Vector is shown when computing for the Forward Kinematics. This is also where you input the Position Vector when computing for the Inverse Kinematics
 
+![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157588949/cd59101f-963f-4be5-9e8e-714d36ec2c20)
+
 
 # **REFERENCES**
 - Chakraborty, E. (2024, January 20). What is a
