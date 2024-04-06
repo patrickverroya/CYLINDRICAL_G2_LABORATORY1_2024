@@ -69,7 +69,7 @@ displacements or motion characteristics.
 
   ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/9a61137a-4107-4720-8e92-8ab032a708b1)
 
-  **VIDEO DISCUSSION [CLICK HERE: https://www.youtube.com/watch?v=6bcpWGbW0z0]** 
+  **SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: https://www.youtube.com/watch?v=6bcpWGbW0z0]** 
   
   ![2](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157670284/05c9d249-3bb3-44c3-9e35-d948f7997cfd)
 
