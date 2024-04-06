@@ -138,18 +138,10 @@ In forward kinematics, the given inputs are the joints variables using the homog
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/9d37453a-8401-47f3-b10d-652f9559e821)
 
 
-
-
-
-
-
-
-
-
-
-
-
 # **FORWARD AND INVERSE KINEMATICS (GUI CALCULATOR)**
+
+
+# **REFERENCES**
 
 
 
