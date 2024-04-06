@@ -109,6 +109,13 @@ Homogeneous transformation matrices combine both the rotation matrix and displac
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/64123790-890e-46a8-a78a-267bdf14aa0d)
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/93d77d1e-7677-4cf9-8889-6a72b3a0c731)
 
+_________________________________________________________________________________________________________________________________________________
+
+![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/fbe5a5c8-d1d1-469b-8882-6e618818fa1c)
+
+![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/b09fca0f-058b-4044-bc01-b8f779cf7453)
+
+
 
 
 
