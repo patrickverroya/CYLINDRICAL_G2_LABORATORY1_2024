@@ -40,7 +40,7 @@ joints. The manipulator has one end that is attached to
 a base and the other that is free to be employed for
 various robotic tasks.
 
-As we move forward, we will be exploring the full potential of its form and 
+As we move forward, we will be exploring the full potential of its form and functions. Dissecting the cylindrical manipulator's characteristics such as the number of its joints, DOF, D-H Frames and more that will emphasize the unique advantages it offers.
 
 # **DEGREES OF FREEDOM**
 The number of independent variables used to
