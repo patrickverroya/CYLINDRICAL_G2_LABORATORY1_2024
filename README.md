@@ -38,7 +38,9 @@ numerous industrial operations. The cylindrical
 manipulator is made up of rigid links joined together by
 joints. The manipulator has one end that is attached to
 a base and the other that is free to be employed for
-various robotic tasks. 
+various robotic tasks.
+
+As we move forward, we will be exploring the full potential of its form and 
 
 # **DEGREES OF FREEDOM**
 The number of independent variables used to
