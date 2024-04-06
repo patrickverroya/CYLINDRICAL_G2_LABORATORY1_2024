@@ -97,6 +97,18 @@ In the documentation for cylindrical robots, it could quickly locate homogeneous
 
 # **HOMOGENEOUS TRANSFORMATION MATRIX**
 
+Homogeneous transformation matrices are a tool
+used to describe the position and orientation of a
+rigid body relative to a fixed reference frame.
+They essentially combine rotation and translation
+information into a single, convenient mathematical
+structure.
+
+Homogeneous transformation matrices combine both the rotation matrix and displacement vector intoto a single matrix. Homogeneous transformation matrix combines both the rotation matrix and the displacement vector into a single matrix. We can multiply two homogeneous matrices together just like we can with rotation matrices. We can combine rotation matrices and displacement vectors into a single matrix. It is the important concept of forward kinematics.
+
+
+
+
 
 
 
