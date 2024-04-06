@@ -118,17 +118,20 @@ ________________________________________________________________________________
 
 
 
-
-
-
-
-
-
-
-
-
-
 # **INVERSE KINEMATICS** 
+Inverse kinematics is the mathematical process
+of calculating the variable joint parameters
+needed to place the end of a kinematic chain, such
+as a robot manipulator or animation character's
+skeleton, in a given position and orientation
+relative to the start of the chain.
+
+In inverse kinematics, the given input is the position vector while the output is the joint variable. The method obtain the output depends on the design of difficulty of the mechanical manipulator.
+![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/e5d01b4b-c9af-49a5-b01c-8f89d320d3b4)
+
+In forward kinematics, the given inputs are the joints variables using the homogeneous transformation matrix, by that, we will obtain position vector.
+![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/84001ee9-2638-43c4-90d1-741f6d2da9dd)
+
 
 
 
