@@ -71,7 +71,6 @@ displacements or motion characteristics.
 
   **VIDEO DISCUSSION [CLICK HERE: https://www.youtube.com/watch?v=6bcpWGbW0z0]** 
   
-  **[VIDEO DISCUSSION ABOUT DEGREES OF FREEDOM STARTS AT]**
   ![2](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157670284/05c9d249-3bb3-44c3-9e35-d948f7997cfd)
 
   # **KINEMATIC DIAGRAM AND D-H FRAME**
