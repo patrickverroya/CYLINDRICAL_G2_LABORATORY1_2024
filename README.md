@@ -90,7 +90,7 @@ ____________________________________![image](https://github.com/patrickverroya/C
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/ca81b6a3-a2d8-4604-b92e-d7af45032c86)
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/b394038e-b9e0-4216-80b0-51c6a1029a82)
 
-  **VIDEO DISCUSSION [CLICK HERE: https://www.youtube.com/watch?v=B_SrmvaQ9Lw]** 
+  **SUPPLEMENRATY VIDEO DISCUSSION [CLICK HERE: https://www.youtube.com/watch?v=B_SrmvaQ9Lw]** 
   
 ![3](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157670284/74297091-42c1-4e4d-9353-382a8f93952a)
 
@@ -105,9 +105,8 @@ In the documentation for cylindrical robots, it could quickly locate homogeneous
 
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/fa7b1c60-9a69-40cc-900e-d6bef6edf038)
 
-  **VIDEO DISCUSSION [CLICK HERE:]** 
+  **SUPPLEMENRATY VIDEO DISCUSSION [CLICK HERE:]** 
   
-  **[VIDEO DISCUSSION ABOUT D-H PARAMETRIC TABLE STARTS AT]**
   ![4](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157670284/153d0f93-d6a4-4f2b-b60a-a5f479368672)
 
 
@@ -131,9 +130,8 @@ ________________________________________________________________________________
 
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/b09fca0f-058b-4044-bc01-b8f779cf7453)
 
-  **VIDEO DISCUSSION [CLICK HERE:]** 
+  **SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE:]** 
   
-  **[VIDEO DISCUSSION ABOUT HOMOGENEOUS TRANSFORMATION MATRIX STARTS AT]**
   ![5](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157670284/bf8a7a91-6842-4534-9781-06eb2cba34a0)
 
 
@@ -157,9 +155,8 @@ INVERSE KINEMATICS OF CYLINDRICAL MANIPULATOR
 
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/9d37453a-8401-47f3-b10d-652f9559e821)
 
-  **VIDEO DISCUSSION [CLICK HERE:]** 
+  **SUPPLEMENTRY VIDEO DISCUSSION [CLICK HERE:]** 
   
-  **[VIDEO DISCUSSION ABOUT INVERSE KINEMATICS STARTS AT]**
   ![6](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157670284/4f2f8068-84a4-4fc3-b504-4bf68d1fa871)
 
 
