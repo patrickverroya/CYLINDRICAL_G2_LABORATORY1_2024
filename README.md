@@ -130,7 +130,7 @@ ________________________________________________________________________________
 
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/b09fca0f-058b-4044-bc01-b8f779cf7453)
 
-  **SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE:]** 
+  **SUPPLEMENTARY VIDEO DISCUSSION [CLICK HERE: https://www.youtube.com/watch?v=4LfBKG08URo]** 
   
   ![5](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157670284/bf8a7a91-6842-4534-9781-06eb2cba34a0)
 
