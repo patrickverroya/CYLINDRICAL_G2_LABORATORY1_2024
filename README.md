@@ -132,6 +132,14 @@ In inverse kinematics, the given input is the position vector while the output i
 In forward kinematics, the given inputs are the joints variables using the homogeneous transformation matrix, by that, we will obtain position vector.
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/84001ee9-2638-43c4-90d1-741f6d2da9dd)
 
+## **INVERSE KINEMATICS OF CYLINDRICAL MANIPULATOR**
+
+![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/c156e7b5-aec3-4dc8-9440-d63a98e271de)
+
+![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/9d37453a-8401-47f3-b10d-652f9559e821)
+
+
+
 
 
 
