@@ -96,7 +96,7 @@ ____________________________________![image](https://github.com/patrickverroya/C
 
 
 
-#**V. D-H PARAMETRIC TABLE**
+# **V. D-H PARAMETRIC TABLE**
 
 In the documentation for cylindrical robots, it could quickly locate homogeneous transformation matrices using the dh parameter table.
 
