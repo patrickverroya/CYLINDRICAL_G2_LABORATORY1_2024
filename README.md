@@ -8,11 +8,11 @@
 #### PQ : Blasco, Treaty Sherrizah L.
 #### PR : Verroya, Patrick James C.
 
-# **ABSTRACT**
+# **I. ABSTRACT**
 
 A **CYLINDRICAL MANIPULATOR** is a type of robot arm that is designed to function in a cylindrical workspace. This type of manipulator consists of three links (one prismatics and two revolute) arranged in a cylindrical configuration (RPP). The circular work envelope of the robots is made possible via a rotating shaft and an extensible arm that slides and travels vertically. The cylindrical manipulator has several industrial uses, including pick-and-place operations, painting, and welding. Its workspace, however, is constrained to a cylindrical cylinder and it would not be appropriate for applications requiring great precision or substantial payloads.
 
-# **INTRODUCTION**
+# **II. INTRODUCTION**
 ![b-removebg-preview](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/1a0a72df-385f-462d-b5cb-e774d6771d76)  ![433589030_1095598608339301_3556433435437126138_n](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157602175/a4f78d99-3eeb-4dca-bd88-b59a93c7b104)
 
 
@@ -42,7 +42,7 @@ various robotic tasks.
 
 As we move forward, we will be exploring the full potential of its form and functions. Dissecting the cylindrical manipulator's characteristics such as the number of its joints, DOF, D-H Frames and more that will emphasize the unique advantages it offers.
 
-# **DEGREES OF FREEDOM**
+# **III. DEGREES OF FREEDOM**
 The number of independent variables used to
 represent the various positions or motions of a
 mechanical system in space is referred to as degrees
@@ -75,7 +75,7 @@ displacements or motion characteristics.
   
   ![2](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157670284/05c9d249-3bb3-44c3-9e35-d948f7997cfd)
 
-  # **KINEMATIC DIAGRAM AND D-H FRAME**
+  # **IV. KINEMATIC DIAGRAM AND D-H FRAME**
 
   **Denavit-Hartenberg Notation**
 
@@ -96,7 +96,7 @@ ____________________________________![image](https://github.com/patrickverroya/C
 
 
 
-# D-H PARAMETRIC TABLE
+#**V. D-H PARAMETRIC TABLE**
 
 In the documentation for cylindrical robots, it could quickly locate homogeneous transformation matrices using the dh parameter table.
 
@@ -110,7 +110,7 @@ In the documentation for cylindrical robots, it could quickly locate homogeneous
   ![4](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157670284/153d0f93-d6a4-4f2b-b60a-a5f479368672)
 
 
-# **HOMOGENEOUS TRANSFORMATION MATRIX**
+# **VI. HOMOGENEOUS TRANSFORMATION MATRIX**
 
 Homogeneous transformation matrices are a tool
 used to describe the position and orientation of a
@@ -135,7 +135,7 @@ ________________________________________________________________________________
   ![5](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157670284/bf8a7a91-6842-4534-9781-06eb2cba34a0)
 
 
-# **INVERSE KINEMATICS** 
+# **VII. INVERSE KINEMATICS** 
 Inverse kinematics is the mathematical process
 of calculating the variable joint parameters
 needed to place the end of a kinematic chain, such
@@ -160,7 +160,7 @@ INVERSE KINEMATICS OF CYLINDRICAL MANIPULATOR
   ![6](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157670284/4f2f8068-84a4-4fc3-b504-4bf68d1fa871)
 
 
-# **FORWARD AND INVERSE KINEMATICS (GUI CALCULATOR)**
+# **VIII. FORWARD AND INVERSE KINEMATICS (GUI CALCULATOR)**
 
   **Main Interface**
 
@@ -208,7 +208,7 @@ This part is where the Position Vector is shown when computing for the Forward K
 ![image](https://github.com/patrickverroya/Cylindrical_Lab1/assets/157588949/cd59101f-963f-4be5-9e8e-714d36ec2c20)
 
 
-# **REFERENCES**
+# **IX. REFERENCES**
 - Chakraborty, E. (2024, January 20). What is a
 cylindrical robot? 9 Answers You should
 know - LAMBDAGEEKS. Lambda Geeks.
