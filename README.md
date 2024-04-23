@@ -6,7 +6,7 @@
 #### PE : Sunga, Jairus C.
 #### PS : de Gracia, Terrance Mae C.
 #### PQ : Blasco, Treaty Sherrizah L.
-#### PR : Verroya, Patrick James C.
+#### PR : Verroya, Patrick James G.
 
 # **I. ABSTRACT**
 
